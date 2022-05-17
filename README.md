@@ -92,7 +92,7 @@ const exec = async () => {
 
 #### Argument Type
 
-```javascript
+```typescript
 // - before
 type Arg = card_release & { card_candidate: card_candidate[] }
 const getMinimumCandidateNumber = (arg: Arg) => {
