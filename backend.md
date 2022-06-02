@@ -22,6 +22,8 @@
 
 ## Typescript
 
+<https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md>
+
 ### Project structure and File naming conventions
 
 export 기준으로 나눕니다.
